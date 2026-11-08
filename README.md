@@ -17,32 +17,28 @@
 
 ## 👩‍💻 About Me
 
-```python
-class Eman:
-    role      = "Full Stack | Mobile App Developer"
-    studying  = "BS Computer Science @ UET Lahore (2023 – 2027)"
-    based_in  = "Lahore, Pakistan 🇵🇰"
-    languages = ["English", "Urdu", "Punjabi", "German (A2)"]
-    focus     = ["Agentic AI", "Full Stack Web", "Flutter Apps", "UI/UX", "Cybersecurity"]
-    open_to   = "Junior developer roles & collaborations"
+<div align="center">
+<img src="./assets/profile-card.svg" alt="Eman Fatima profile card" width="100%"/>
+</div>
 
-    def motto(self):
-        return "Design it beautifully. Build it properly. Ship it."
-```
+<br/>
+
+<div align="center">
+<img src="./assets/stats-cards.svg" alt="Quick stats" width="100%"/>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+<img src="./assets/skills-orbit.svg" alt="Skill galaxy" width="100%"/>
 
-**Languages & Frameworks**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,html,css,react,nextjs,flutter,dart,fastapi&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,html,css,react,nextjs,flutter,dart,fastapi,postgres,sqlite,mongodb,git,github,vercel,vscode,figma,linux&theme=dark" />
 
-**Databases · Tools · Design**
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,git,github,vercel,vscode,figma,linux&theme=dark" /><br/><br/>
+<br/><br/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-14122b?style=for-the-badge&logo=langchain&logoColor=2dd4bf)
 ![LangGraph](https://img.shields.io/badge/LangGraph-14122b?style=for-the-badge&logo=langgraph&logoColor=a78bfa)
@@ -50,69 +46,30 @@ class Eman:
 ![Playwright](https://img.shields.io/badge/Playwright-14122b?style=for-the-badge&logo=playwright&logoColor=2dd4bf)
 ![Kali](https://img.shields.io/badge/Kali_Linux-14122b?style=for-the-badge&logo=kalilinux&logoColor=a78bfa)
 ![Metasploit](https://img.shields.io/badge/Metasploit-14122b?style=for-the-badge&logo=metasploit&logoColor=f472b6)
-
 </div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+<img src="./assets/projects.svg" alt="Featured projects" width="100%"/>
 
-### 🔍 [SitePulse](https://github.com/emanfatima72/sitepulse-app)
-Paste any URL → pick pages to scan → get issues, fixes, analytics & a full report. Live on Vercel.
+<br/>
 
-`Next.js` `TypeScript` `Web Audit`
+[![SitePulse](https://img.shields.io/badge/SitePulse-repo-14122b?style=for-the-badge&logo=github&logoColor=2dd4bf)](https://github.com/emanfatima72/sitepulse-app)
+[![Website Auditor](https://img.shields.io/badge/Website_Auditor-repo-14122b?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/emanfatima72/website_auditor_app)
+[![Playwright](https://img.shields.io/badge/Playwright_Automation-repo-14122b?style=for-the-badge&logo=github&logoColor=f472b6)](https://github.com/emanfatima72/playwright-browser-automation)
+[![Green Heaven](https://img.shields.io/badge/Green_Heaven-repo-14122b?style=for-the-badge&logo=github&logoColor=2dd4bf)](https://github.com/emanfatima72/Green-Heaven)
+</div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🧑‍💼 HRMS System
-Admin + HR portals with secure login, **AI CV scanning that auto-fills employee data**, payroll, promotions & salary management.
+## 🧭 My Journey
 
-`Web App` `AI` `Database`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 DoctorDataAI
-Collects doctor data from NPPES, LinkedIn & Facebook at scale, filters by speciality, imports/exports Excel.
-
-`Python` `Data Collection` `Healthcare`
-
-</td>
-<td width="50%" valign="top">
-
-### ✍️ AI Article Generator
-Topic + keywords → 4 AI drafts → best 2 picked → humanized, plagiarism-free final article with generated images.
-
-`Agentic AI` `Content Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 [Playwright Browser Automation](https://github.com/emanfatima72/playwright-browser-automation)
-Human-like browser automation workflows, multi-screen.
-
-`TypeScript` `Playwright`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 [Green-Heaven](https://github.com/emanfatima72/Green-Heaven)
-University project for a planting & greenery initiative.
-
-`HTML` `CSS` `JS`
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="./assets/timeline.svg" alt="Journey timeline" width="100%"/>
+</div>
 
 ---
 
