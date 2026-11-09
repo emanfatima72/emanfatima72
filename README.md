@@ -71,12 +71,13 @@
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=emanfatima72&show_icons=true&bg_color=100e2a&border_color=2a2552&title_color=a78bfa&text_color=ece8ff&icon_color=2dd4bf&ring_color=f472b6&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanfatima72&layout=compact&bg_color=100e2a&border_color=2a2552&title_color=a78bfa&text_color=ece8ff&langs_count=8" />
+<img width="49%" alt="Profile details" src="https://raw.githubusercontent.com/emanfatima72/emanfatima72/main/profile-summary-card-output/dracula/0-profile-details.svg" />
+<img width="49%" alt="GitHub stats" src="https://raw.githubusercontent.com/emanfatima72/emanfatima72/main/profile-summary-card-output/dracula/3-stats.svg" />
 
-<img src="https://streak-stats.demolab.com/?user=emanfatima72&theme=dark&border=2a2552&background=100e2a&ring=a78bfa&fire=f472b6&currStreakLabel=2dd4bf&sideLabels=ece8ff&currStreakNum=ece8ff&sideNums=ece8ff&dates=8b8fb0&stroke=2a2552" />
+<img width="49%" alt="Repos per language" src="https://raw.githubusercontent.com/emanfatima72/emanfatima72/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
+<img width="49%" alt="Most used languages in commits" src="https://raw.githubusercontent.com/emanfatima72/emanfatima72/main/profile-summary-card-output/dracula/2-most-commit-language.svg" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emanfatima72&bg_color=100e2a&color=a78bfa&line=2dd4bf&point=f472b6&area=true&area_color=2dd4bf&hide_border=true&custom_title=Contribution%20activity" width="100%"/>
+<img width="98%" alt="Productive time" src="https://raw.githubusercontent.com/emanfatima72/emanfatima72/main/profile-summary-card-output/dracula/4-productive-time.svg" />
 
 </div>
 
