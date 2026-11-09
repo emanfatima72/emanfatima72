@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## <a><img src="https://api.iconify.design/lucide/user.svg?color=%23a78bfa" alt="" width="24" height="24" align="absmiddle"/></a> About Me
 
 <div align="center">
 <a><img src="./assets/profile-card.svg" alt="Eman Fatima profile card" width="100%"/></a>
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## <a><img src="https://api.iconify.design/lucide/wrench.svg?color=%232dd4bf" alt="" width="24" height="24" align="absmiddle"/></a> Tech Stack
 
 <div align="center">
 <a><img src="./assets/dev-room.svg" alt="EMAN.DEV animated 3D dev room with 18 skills orbiting: Agentic AI, LangChain, LangGraph, Prompt Engineering, Python, FastAPI, PostgreSQL, SQLite, MongoDB, Oracle, React, Next.js, TypeScript, Flutter, Figma, HTML/CSS, C++, C#" width="100%"/></a>
@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## <a><img src="https://api.iconify.design/lucide/rocket.svg?color=%23f472b6" alt="" width="24" height="24" align="absmiddle"/></a> Featured Projects
 
 <div align="center">
 <a><img src="./assets/projects.svg" alt="Featured projects" width="100%"/></a>
@@ -60,7 +60,7 @@
 
 ---
 
-## 🧭 My Journey
+## <a><img src="https://api.iconify.design/lucide/route.svg?color=%23a78bfa" alt="" width="24" height="24" align="absmiddle"/></a> My Journey
 
 <div align="center">
 <a><img src="./assets/timeline.svg" alt="Journey timeline" width="100%"/></a>
@@ -68,7 +68,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## <a><img src="https://api.iconify.design/lucide/globe.svg?color=%232dd4bf" alt="" width="24" height="24" align="absmiddle"/></a> Connect With Me
 
 <div align="center">
 <a href="https://github.com/emanfatima72"><img src="./assets/icons/github.svg" alt="GitHub" width="56"/></a>&nbsp;
@@ -80,7 +80,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## <a><img src="https://api.iconify.design/lucide/activity.svg?color=%23f472b6" alt="" width="24" height="24" align="absmiddle"/></a> Contribution Snake
 
 <div align="center">
 <a><img alt="snake" src="https://raw.githubusercontent.com/emanfatima72/emanfatima72/output/github-snake-dark.svg#gh-dark-mode-only"/></a>
@@ -89,12 +89,12 @@
 
 ---
 
-## 🎨 Beyond Code
+## <a><img src="https://api.iconify.design/lucide/palette.svg?color=%23a78bfa" alt="" width="24" height="24" align="absmiddle"/></a> Beyond Code
 
-- 🩸 Member — **Jahad for Zero Thalassemia (JZT)**, creating awareness content & community outreach
-- 🤝 Ambassador (2023–24) — **Muwakhat Foundation**, Lahore
-- 🎨 Former **Design Lead** — led design projects & quality reviews
-- 📝 I write at **[plaintec.blogspot.com](https://plaintec.blogspot.com/)**
+- <a><img src="https://api.iconify.design/lucide/droplet.svg?color=%23f472b6" alt="" width="16" height="16" align="absmiddle"/></a> Member — **Jahad for Zero Thalassemia (JZT)**, creating awareness content & community outreach
+- <a><img src="https://api.iconify.design/lucide/handshake.svg?color=%232dd4bf" alt="" width="16" height="16" align="absmiddle"/></a> Ambassador (2023–24) — **Muwakhat Foundation**, Lahore
+- <a><img src="https://api.iconify.design/lucide/palette.svg?color=%23a78bfa" alt="" width="16" height="16" align="absmiddle"/></a> Former **Design Lead** — led design projects & quality reviews
+- <a><img src="https://api.iconify.design/lucide/pen-line.svg?color=%23f472b6" alt="" width="16" height="16" align="absmiddle"/></a> I write at **[plaintec.blogspot.com](https://plaintec.blogspot.com/)**
 
 ---
 
@@ -102,6 +102,6 @@
 
 <a><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=110&section=footer" width="100%"/></a>
 
-*"Make it work, make it right, make it beautiful."* ✨
+*"Make it work, make it right, make it beautiful."*
 
 </div>
