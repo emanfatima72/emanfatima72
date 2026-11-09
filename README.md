@@ -2,8 +2,6 @@
 
 <img src="./assets/banner.svg" alt="Eman Fatima" width="100%"/>
 
-<a href="https://github.com/emanfatima72"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+%26+Mobile+App+Developer;Building+AI+agents+with+LangChain+%26+LangGraph;Python+%7C+Next.js+%7C+Flutter;UI%2FUX+Designer+who+writes+the+backend+too+%E2%9C%A8" alt="Typing SVG"/></a>
-
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=emanfatima72&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
@@ -32,13 +30,9 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="./assets/skills-orbit.svg" alt="Skill galaxy" width="100%"/>
+<img src="./assets/skills-orbit.svg" alt="3D skill galaxy" width="100%"/>
 
 <br/>
-
-<img src="https://skillicons.dev/icons?i=py,cpp,c,cs,js,ts,html,css,react,nextjs,flutter,dart,fastapi,postgres,sqlite,mongodb,git,github,vercel,vscode,figma,linux&theme=dark" />
-
-<br/><br/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-14122b?style=for-the-badge&logo=langchain&logoColor=2dd4bf)
 ![LangGraph](https://img.shields.io/badge/LangGraph-14122b?style=for-the-badge&logo=langgraph&logoColor=a78bfa)
