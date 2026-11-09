@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="./assets/skills-orbit.svg" alt="3D skill galaxy" width="100%"/>
+<img src="./assets/dev-room.svg" alt="EMAN.DEV animated 3D dev room with 18 skills orbiting: Agentic AI, LangChain, LangGraph, Prompt Engineering, Python, FastAPI, PostgreSQL, SQLite, MongoDB, Oracle, React, Next.js, TypeScript, Flutter, Figma, HTML/CSS, C++, C#" width="100%"/>
 
 <br/>
 
