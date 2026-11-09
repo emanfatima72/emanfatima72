@@ -71,10 +71,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=emanfatima72&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=2dd4bf&ring_color=f472b6&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanfatima72&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=emanfatima72&show_icons=true&bg_color=100e2a&border_color=2a2552&title_color=a78bfa&text_color=ece8ff&icon_color=2dd4bf&ring_color=f472b6&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanfatima72&layout=compact&bg_color=100e2a&border_color=2a2552&title_color=a78bfa&text_color=ece8ff&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com/?user=emanfatima72&theme=dark&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b8fb0" />
+<img src="https://streak-stats.demolab.com/?user=emanfatima72&theme=dark&border=2a2552&background=100e2a&ring=a78bfa&fire=f472b6&currStreakLabel=2dd4bf&sideLabels=ece8ff&currStreakNum=ece8ff&sideNums=ece8ff&dates=8b8fb0&stroke=2a2552" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emanfatima72&bg_color=100e2a&color=a78bfa&line=2dd4bf&point=f472b6&area=true&area_color=2dd4bf&hide_border=true&custom_title=Contribution%20activity" width="100%"/>
 
 </div>
 
